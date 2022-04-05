@@ -1,0 +1,13 @@
+COMANDOS
+
+
+
+git clone xxx
+
+git status
+
+git add .
+
+git commit -m "BLA BLA BLA"
+
+git push origin main
